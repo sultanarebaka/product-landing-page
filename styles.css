@@ -161,7 +161,7 @@ nav > ul{
     flex-direction: column;
     justify-content: center;
     height:125px;
-    width: 96vw;
+    width: 92vw;
     padding: 4px;
 }
 @media (max-width:550px) {
